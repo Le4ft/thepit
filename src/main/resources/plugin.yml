@@ -1,0 +1,121 @@
+name: PitRedux
+version: 1.0
+author: Alpha
+main: com.alpha.redux.redux
+api-version: 1.8
+commands:
+  spawn:
+    description: Teleports player to spawn
+    usage: /<command>
+    aliases: spwn
+  feed:
+    description: Feeds player to max saturation
+    usage: /<command>
+    aliases: [feedme, uwu]
+  kit:
+    description: Gives kit
+    usage: /<command>
+  shop:
+    description: Opens Shop
+    usage: /<command>
+    aliases: open
+  streak:
+    description: Opens Streak Menu
+    usage: /<command>
+    aliases: sk
+  mega:
+    description: Selects Beastmode
+    usage: /<command>
+    aliases: sm
+  balance:
+    description: Shows balance
+    usage: /<command>
+    aliases: bl
+  prestige:
+    description: Prestige!
+    usage: /<command>
+    aliases: pres
+  prestiges:
+    description: set prestiges for player (DEBUGING PURPOSES)
+    usage: /<command>
+    aliases: ps
+  gold:
+    description: Sets gold for player (DEBUGING PURPOSES)
+    usage: /<command>
+    aliases: gs
+  well:
+    description: Opens the mystics
+    usage: /<command>
+    aliases: mysticwell
+  checkPants:
+    description: Checks pant enchants
+    usage: /<command>
+    aliases: cP
+  getXp:
+    description: Gets your xp
+    usage: /<command>
+    aliases: gxp
+  all:
+    description: Gives all items
+    usage: /<command>
+    aliases: giveAllItems
+  KillMessageToggle:
+    description: Toggles the kill message on bots!
+    usage: /<command>
+    aliases: kmt
+  mkBoard:
+    description: Makes the leaderboard!
+    usage: /<command>
+    aliases: mkbd
+  rBoard:
+    description: Reloads the leaderboard!
+    usage: /<command>
+    aliases: rbd
+  makeMonersRankers:
+    description: Makes the moners!
+    usage: /<command>
+    aliases: mmrtebex
+  oof:
+    description: Takes you to spawn by death!
+    usage: /<command>
+    aliases: oooooooooooooooooooooooooooooooooooof
+  purchaseDyes:
+    description: Buys the dyes
+    usage: /<command>
+    aliases: pdtb
+  hub:
+    description: Sends you to the hub
+    usage: /<command>
+    aliases: hbs
+  play:
+    description: Sends you to the pit
+    usage: /<command>
+    aliases: ply
+  veloCheck:
+    description: Checks the velo of a player.
+    usage: /<command>
+    aliases: vlCheck
+  repairs:
+    description: Repairs 1 life on your mystic for the cost of 1 vile!
+    usage: /<command>
+    aliases: rpitem
+  pants:
+    description: Gives Fresh Reds every 5 seconds
+    usage: /<command>
+    aliases: giveMeYummyPants
+  show:
+    description: Shows off your items!
+    usage: /<command>
+    aliases: showMyItem
+  malding:
+    description: Summons the boss!
+    usage: /<command>
+    aliases: mald
+  enchantPant:
+    description: Enchants whatever
+    usage: /<command>
+    aliases: COPEENCHANTCOPE
+  activateBooster:
+    description: Activates a booster for Better Pit!!
+    usage: /<command> <timeInMinutes>
+    aliases: p2wCommand
